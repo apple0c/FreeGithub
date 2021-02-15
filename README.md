@@ -11,15 +11,15 @@ github.global.ssl.fastly.net 199.232.69.194
 github.com 140.82.114.4
 assets-cdn.github.com 185.199.108.153
 api.github.com 140.82.112.5
-githubusercontent.com 40.65.230.0
+githubusercontent.com 52.254.12.93
 raw.githubusercontent.com 185.199.108.133
 documentcloud.github.com 185.199.108.153
-gist.github.com 140.82.114.4
+gist.github.com 140.82.113.4
 training.github.com 185.199.108.153
 raw.github.com 185.199.108.133
 help.github.com 185.199.108.154
 nodeload.github.com 140.82.114.9
-status.github.com 140.82.113.17
+status.github.com 140.82.114.17
 favicons.githubusercontent.com 185.199.108.133
 avatars5.githubusercontent.com 185.199.108.133
 avatars4.githubusercontent.com 185.199.108.133
@@ -30,7 +30,7 @@ avatars0.githubusercontent.com 185.199.108.133
 # Github Host End
 ```
 
-更新时间：2021-02-15 18:01:27
+更新时间：2021-02-15 23:01:12
 
 ## 修改本机的hosts文件
 ### 存放位置
