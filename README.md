@@ -10,11 +10,11 @@ github.map.fastly.net 185.199.108.133
 github.global.ssl.fastly.net 199.232.69.194
 github.com 140.82.113.4
 assets-cdn.github.com 185.199.108.153
-api.github.com 140.82.113.5
-githubusercontent.com 40.78.158.81
+api.github.com 140.82.114.5
+githubusercontent.com 13.77.70.11
 raw.githubusercontent.com 185.199.108.133
 documentcloud.github.com 185.199.108.153
-gist.github.com 140.82.113.3
+gist.github.com 140.82.114.3
 training.github.com 185.199.108.153
 raw.github.com 185.199.108.133
 help.github.com 185.199.108.154
@@ -30,7 +30,7 @@ avatars0.githubusercontent.com 185.199.108.133
 # Github Host End
 ```
 
-更新时间：2021-05-13 10:41:41
+更新时间：2021-05-13 18:02:21
 
 ## 修改本机的hosts文件
 ### 存放位置
